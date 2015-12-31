@@ -387,4 +387,4 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 [ferisystem](https://github.com/ferisystem) ([Telegram](https://telegram.me/ferisystem))
 
 
-Our cahnnel > [@TeleSeedCH](https://telegram.me/tele-Managerch)
+Our cahnnel > [tele-ManagerCh](https://telegram.me/teleManager1)
