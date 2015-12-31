@@ -374,7 +374,7 @@ then start the bot again
 # Support and development
 
 Do not contact **us** In private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join tele-Manager Support` to [@tele_Manager](https://telegram.me/tele_Manager)
 
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
