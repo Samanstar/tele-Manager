@@ -380,11 +380,14 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 
 # Special thanks to
 [@ferisystem](https://telegram.me/ferisystem)
+
 [@mahdi17177](https://telegram.me/mahdi17177)
 
 # Our team !
 
 [ferisystem](https://github.com/ferisystem) ([Telegram](https://telegram.me/ferisystem))
+
+
 [LORDMEHDI](https://github.com/LORDMEHDI) ([Telegram](https://telegram.me/mahdi17177))
 
 Our cahnnel > [tele-ManagerCh](https://telegram.me/teleManager1)
