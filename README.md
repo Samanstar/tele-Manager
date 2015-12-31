@@ -390,4 +390,4 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 
 [LORDMEHDI](https://github.com/LORDMEHDI) ([Telegram](https://telegram.me/mahdi17177))
 
-Our cahnnel > [tele-ManagerCh](https://telegram.me/teleManager1)
+Our cahnnel > [tele-Manager1Ch](https://telegram.me/teleManager1)
