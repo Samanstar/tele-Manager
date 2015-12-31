@@ -25,7 +25,7 @@
 ### Group creation
 >/creategroup [group name]
 >
->>/creategroup SEED
+>>/creategroup Manager
 >>>will create a group
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
@@ -136,7 +136,7 @@
 >>>This command will set [User_id] as the owner of [group_id]
 
 ### Bot stats 
->/stats teleseed
+>/stats Manager
 >>This command will return bot stats
 
 ## owners and mods commands
@@ -343,8 +343,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
-cd TeleSeed
+git clone https://github.com/Samanstar/tele-Manager.git
+cd tele-Manager
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -379,24 +379,12 @@ Join our bot development group by sending `/join 56670147` to [@TeleSeed](https:
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
+[@ferisystem](https://telegram.me/ferisystem)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on telegram
-
-[@Vamptacus](https://telegram.me/Vamptacus)
-
-For graphic designs
-
-[@topkecleon](https://github.com/topkecleon)
-
-[@JuanPotato](https://github.com/JuanPotato)
 
 # Our team !
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[ferisystem](https://github.com/ferisystem) ([Telegram](https://telegram.me/ferisystem))
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
-
-Our cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)
+Our cahnnel > [@TeleSeedCH](https://telegram.me/tele-Managerch)
