@@ -197,7 +197,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Changing Group name
 >/setname [name]
->>/setname SEED
+>>/setname Manager
 >>>This command will set [name] as name of groups
 
 ### Group link
