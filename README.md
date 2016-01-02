@@ -375,6 +375,7 @@ then start the bot again
 
 Do not contact **us** In private for support.
 Join our bot development group by sending `/join tele-Manager Support` to [@tele_Manager](https://telegram.me/tele_Manager)
+فعلا برا ربات vps نخریدیم پس نیاید
 
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
