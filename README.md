@@ -380,11 +380,14 @@ Join our bot development group by sending `/join tele-Manager Support` to [@tele
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
 # Special thanks to
+[@super_X_power](https://telegram.me/super_X_power)
+
 [@ferisystem](https://telegram.me/ferisystem)
 
 [@mahdi17177](https://telegram.me/mahdi17177)
 
 # Our team !
+[Samanstar](https://github.com/Samanstar) (Telegram](https://telegram.me/super_X_power))
 
 [ferisystem](https://github.com/ferisystem) ([Telegram](https://telegram.me/ferisystem))
 
