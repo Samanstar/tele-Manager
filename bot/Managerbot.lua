@@ -227,18 +227,13 @@ function create_config( )
     about_text = [[Tard_Hacker v4.9
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/LORDMEHDI/LORD
+https://github.com/Samanstar/tele-Manager
 
-Admins
-@Mahdi17177 [Founder & Developer]
-@ferisystem [Construction Manager Groups]
-
-Special thanks to
-Peryman khannas
+Admin
+@samanbeeza [Founder & Developer] [Construction Manager Groups]
 
 Our channels
-@@tard_ch [English]
-]],
+@telemanager1[persian]]],
     help_text = [[
 Commands list :
 
