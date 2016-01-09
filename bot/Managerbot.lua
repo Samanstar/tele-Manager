@@ -220,11 +220,11 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {112524566,0,tonumber(our_id)},--Sudo users
+    sudo_users = {153521519,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Tard_Hacker v4.9
+    about_text = [[TeleManager v4.6
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/Samanstar/tele-Manager
