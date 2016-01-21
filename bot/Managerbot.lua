@@ -229,8 +229,9 @@ An advance Administration bot based on yagop/telegram-bot
 
 https://github.com/Samanstar/tele-Manager
 
-Admin
-@samanbeeza [Founder & Developer] [Construction Manager Groups]
+Admins
+@VAMPAYER10 [Construction Manager Groups]
+@samanbeeza [Founder & Developer] 
 
 Our channels
 @telemanager1[persian]]],
