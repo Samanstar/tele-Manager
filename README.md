@@ -384,7 +384,6 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 
 [@ferisystem](https://telegram.me/ferisystem)
 
-[@mahdi17177](https://telegram.me/mahdi17177)
 
 # Our team !
 [Samanstar](https://github.com/Samanstar) ([Telegram](https://telegram.me/Samanbeeza))
@@ -392,6 +391,5 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 [ferisystem](https://github.com/ferisystem) ([Telegram](https://telegram.me/ferisystem))
 
 
-[LORDMEHDI](https://github.com/LORDMEHDI) ([Telegram](https://telegram.me/mahdi17177))
 
-Our cahnnel > [tele-Manager1Ch](https://telegram.me/teleManager1)
+# Our cahnnel > [tele-Manager1Ch](https://telegram.me/teleManager1)
